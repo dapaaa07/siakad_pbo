@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Logo SIAKAD">
+  <rect width="64" height="64" rx="12" fill="#0056B3"/>
+  <path d="M16 24L32 16L48 24L32 32L16 24Z" fill="#FFFFFF"/>
+  <path d="M22 29V40C22 43.5 26.5 46 32 46C37.5 46 42 43.5 42 40V29L32 34L22 29Z" fill="#DCEBFF"/>
+  <path d="M46 26V40" stroke="#FFC107" stroke-width="3" stroke-linecap="round"/>
+</svg>
